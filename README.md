@@ -9,3 +9,7 @@ In this session we're going to create and deploy an application end-to-end with 
 - Get static code analysis report in GitHub Pull Request
 - Get the application health (code smell, code quality...) dashboard
 - Deploy it and run it
+
+Recording: https://www.youtube.com/watch?v=kvxb6qxWLpM
+Live Stream: https://www.facebook.com/techatagoda/videos/2282733305075945/
+Slides: Full Open-Source CI.pptx
